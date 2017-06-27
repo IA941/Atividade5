@@ -1,41 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8984c73-0c93-4f24-8a0b-631c9559a645" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Atividade5_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/WorldServer3D.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Atividade5.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/AgentMind.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/Environment.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/ExperimentMain.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/codelets/behaviors/EatClosestApple.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/codelets/behaviors/EndSimulation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/codelets/behaviors/GetClosestJewel.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/codelets/behaviors/GoToClosestApple.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/codelets/behaviors/GoToClosestJewel.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/codelets/behaviors/Search.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/codelets/behaviors/Unstuck.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/codelets/motor/HandsActionCodelet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/codelets/motor/LegsActionCodelet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/codelets/perception/AppleDetector.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/codelets/perception/ClosestAppleDetector.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/codelets/perception/ClosestJewelDetector.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/codelets/perception/FuelLevelDetector.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/codelets/perception/JewelDetector.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/codelets/sensors/InnerSense.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/codelets/sensors/Vision.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/memory/CreatureInnerSense.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/memory/Proposition.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/model/Helper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/model/SimulationStatus.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/support/MVTimerTask.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/support/MindView$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/support/MindView.class" afterPath="" />
-    </list>
+    <list default="true" id="c8984c73-0c93-4f24-8a0b-631c9559a645" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -443,12 +409,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1498532758582</updated>
-      <workItem from="1498532761460" duration="237000" />
+      <workItem from="1498532761460" duration="792000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="237000" />
+    <option name="totallyTimeSpent" value="792000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
